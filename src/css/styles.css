@@ -21,3 +21,14 @@ body {
   margin-bottom: 16px;
   border-radius: 5px;
 }
+
+li {
+  list-style: none;
+}
+
+.country-info{
+  max-width: max-content;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
